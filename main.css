@@ -1,0 +1,32 @@
+.mainHeader {
+    text-align: center;
+    font-size: 2em;
+    padding: 0.5em;
+}
+
+
+.image {
+    text-align: center;
+}
+
+#mainRep {
+    text-align: center;
+}
+
+.name {
+    margin: 1em;
+    
+}
+
+.subHeader {
+    font-weight: bold;
+
+}
+
+.committees {
+    font-weight: bold;
+}
+
+.com {
+    font-weight: normal;
+}
